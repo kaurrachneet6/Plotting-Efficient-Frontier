@@ -7,4 +7,4 @@ General theory says that efficient frontier is a set of optimal portfolio which 
 In the code, optimal matrix is derived by minimizing standard deviation, given some expected return level for the Dow Jones 30 companies. 
 
 The resulted efficient frontier for the Dow 30 is obtained as follows:
-![image](https://user-images.githubusercontent.com/18537802/35117234-aa16c2ac-fc53-11e7-9ad4-c326b6c21114.png, align = 'center')
+![image](https://user-images.githubusercontent.com/18537802/35117234-aa16c2ac-fc53-11e7-9ad4-c326b6c21114.png)
